@@ -1,0 +1,12 @@
+gEDA library
+
+This is my personal library of schematic symbols and PCB footprints for use 
+with the gEDA tools (see http://www.gpleda.org).
+
+These are referenced by my schematics and PCB layouts, which expect this to
+be present in a directory alongside the project directory.
+
+These files are released under the terms of the GNU General Public License 
+version 2.
+
+Andrew Wedgbury <wedge@sconemad.com>
